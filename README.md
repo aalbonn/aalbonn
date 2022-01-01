@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aalbonn
-- ✨ Just hanging with cfx.re aka. FiveM
-- 🌱 I’m currently learning everything
+- Just hanging with cfx.re aka. FiveM
+- I’m currently learning everything
 - 📫 Send message at Discord to ask help aalbonn#2618
