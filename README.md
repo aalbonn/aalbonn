@@ -1,4 +1,3 @@
-- 👋 Hi, I’m aalbonn.
-- Just hanging with cfx.re aka. FiveM.
-- I’m currently learning everything.
-- 📫 Join <a href="https://discord.gg/M6Wd6bHhXE"> "aalbonn Development"Discord Server </a> For Help.
+### aalbonn
+
+[![Discord](https://img.shields.io/discord/888419741247635536?label=Discord&logo=Discord)][discord]
