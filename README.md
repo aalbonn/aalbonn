@@ -9,4 +9,4 @@
 
 <br />
 
-[discord]: https://discord.com/M6Wd6bHhXE
+[discord]: https://discord.com/invite/M6Wd6bHhXE
