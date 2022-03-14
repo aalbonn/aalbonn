@@ -10,8 +10,8 @@
 
 [discord]: https://discord.com/invite/M6Wd6bHhXE
 
-
-## 🔧 Technologies & Tools
+##
+## 🔧 Tools
 
 ![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=6aa6f8)
